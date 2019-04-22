@@ -2,6 +2,18 @@
 
 This was created to demonstrate how simple a modern React with TS app can be in response to @renatoathaydes's post: https://renato.athaydes.com/posts/comparing-jvm-alternatives-to-js.html
 
+## Try It Out
+
+Clone it then fire up your console and 
+
+`yarn` or `npm install`
+
+Then to start development just `yarn start` or `npm run start`
+
+For an IDE I prefer VSCode.
+
+## Method
+
 I just fired open the console and typed
 
 ```
